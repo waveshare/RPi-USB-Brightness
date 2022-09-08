@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Brightness
+Name[zh_CN]=Brightness
+Comment=britness Client
+Exec=/usr/share/applications/USB_Backlight
+Icon=/usr/share/applications/USB_Backlight.png
+Terminal=false
+Type=Application
+Categories=Utility;
+Encoding=UTF-8
+StartupNotify=true
